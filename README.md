@@ -1,4 +1,5 @@
 # Turkcell-Internship-Project
+# Java 17, Maven, Selenium 4, Cucumber, TestNG
 Testing processes of Amazon and Trendyol sites until the user login and the product is added to the cart and deleted.
 
 @Amazon:
